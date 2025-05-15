@@ -37,7 +37,7 @@ A step-by-step Text Analytics project on Flipkart product reviews, culminating i
 1. Clone the repository:  
    ```bash
    git clone https://github.com/David-Okello/Flipkart-Reviews-Text-Analytics
-   cd flipkart-text-analytics 
+   cd flipkart-reviews-text-analytics 
    ```
 2. Dependencies
  - At the very least:
